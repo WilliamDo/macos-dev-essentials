@@ -30,3 +30,8 @@ Use the script via `curl` i.e.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+**JetBrains Toolbox App**
+
+https://www.jetbrains.com/toolbox-app/
+
+Use this to manage installations of IntelliJ IDEA, PyCharm etc. 
