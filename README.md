@@ -35,3 +35,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 https://www.jetbrains.com/toolbox-app/
 
 Use this to manage installations of IntelliJ IDEA, PyCharm etc. 
+
+**Visual Studio Code**
+
+https://code.visualstudio.com/
+
