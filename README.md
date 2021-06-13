@@ -9,3 +9,13 @@ Installs `git` and other useful tools.
 ```
 xcode-select --install
 ```
+
+**Mozilla Firefox**
+
+Has useful development tools like multi-account containers.
+
+https://www.mozilla.org/en-GB/firefox/new/
+
+**iTerm2**
+
+https://iterm2.com/
