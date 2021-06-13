@@ -40,3 +40,8 @@ Use this to manage installations of IntelliJ IDEA, PyCharm etc.
 
 https://code.visualstudio.com/
 
+**Node Version Manager**
+
+https://github.com/nvm-sh/nvm
+
+
