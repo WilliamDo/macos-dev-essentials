@@ -62,14 +62,16 @@ https://github.com/jenv/jenv
 
 Follow the instructions to install from source.
 
+**SDKMAN!**
+
+https://sdkman.io/
+
+Currently using jEnv to manage versions but Intellij IDEA to download the JDKs.
+
 ## Tools for consideration
 
 **Homebrew**
 
 https://brew.sh/
 
-**SDKMAN**
 
-https://sdkman.io/
-
-Currently using jEnv to manage versions but Intellij IDEA to download the JDKs.
