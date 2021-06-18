@@ -56,6 +56,12 @@ https://www.docker.com/products/docker-desktop
 
 Requires privileged access.
 
+**jEnv**
+
+https://github.com/jenv/jenv
+
+Follow the instructions to install from source.
+
 ## Tools for consideration
 
 **Homebrew**
@@ -65,3 +71,5 @@ https://brew.sh/
 **SDKMAN**
 
 https://sdkman.io/
+
+Currently using jEnv to manage versions but Intellij IDEA to download the JDKs.
