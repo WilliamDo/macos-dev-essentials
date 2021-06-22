@@ -68,6 +68,10 @@ https://sdkman.io/
 
 Currently using jEnv to manage versions but Intellij IDEA to download the JDKs.
 
+**Insomnia**
+
+https://insomnia.rest/
+
 ## Tools for consideration
 
 **Homebrew**
